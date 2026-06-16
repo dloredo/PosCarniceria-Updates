@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.4.10.0</version>
-    <url>https://github.com/dloredo/PosCarniceria-Updates/releases/download/v1.4.10.0/PosCarniceria-1.4.10.0.msi</url>
-    <changelog>https://github.com/dloredo/PosCarniceria-Updates/releases/tag/v1.4.10.0</changelog>
+    <version>1.4.11.0</version>
+    <url>https://github.com/dloredo/PosCarniceria-Updates/releases/download/v1.4.11.0/PosCarniceria-1.4.11.0.msi</url>
+    <changelog>https://github.com/dloredo/PosCarniceria-Updates/releases/tag/v1.4.11.0</changelog>
     <mandatory>false</mandatory>
 </item>
